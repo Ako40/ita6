@@ -1,0 +1,181 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    background-image: url(../images/arp.jpg);
+    background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+	background: cover;
+	
+}
+
+#wrapper {
+	background: #A7BCB2;
+	margin: 15px auto;
+	width: 960px;
+	padding: 15px;
+}
+
+#header {
+	background: #BFC5D9;
+	margin-bottom: 10px;
+	padding: 10px;
+	overflow: hidden;
+}
+
+#logo {
+	float:left;
+	
+	
+}
+
+#h1 {
+    float: right;
+    margin-left: 180px;	
+}
+
+#special {
+    float: right;
+    font-style: oblique;
+    color: #0E0D0D;
+    font-size: 30px;
+    text-shadow: 0px 0px #FDFDFD;
+}
+#special p{
+	margin: 0;
+}
+
+#nav {
+	height: 50px;
+	background: #91DCBD;
+	margin-bottom: 10px;
+}
+
+#main {
+	
+	width: 700px;
+	float: left;
+	margin-bottom: 0 0 10px 0;
+	padding: 15
+		
+}
+
+#nav ul {
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+}
+
+#nav ul li {
+	float: left;
+	display: inline-block;
+}
+
+#nav ul li a {
+	padding: 10px 10px;
+	height: 20px;
+	line-height: 20px;
+	display: block;
+	
+}
+
+#sidebar {
+	width: 250px;
+	float: right;
+	margin-bottom: 0 0 10px 0;
+}
+
+#sidebar .block {
+	margin: 0 0 20px 0;
+}
+
+#sidebar .block h2  {
+	background: white; 
+	color: red;
+	padding: 5px 15px;
+}
+
+#footer {
+    background: #BC30AA;
+    clear: both;
+    text-align: center;
+    font-size: 13px;
+	padding: 3px 0 0 0;
+
+}
+
+#footer p{
+	margin: 0;
+}
+
+#wraper1 {
+	width: 920px;
+	
+}
+#tale {
+	margin: 15px;
+}
+
+.tale1 {
+	margin: 15px;
+}
+
+#main1 {
+	background: #F0E3E3;
+}
+
+.iMg {
+	float: left;
+	margin: 0 15px 8px 10px;
+	border: 8px solid #88B09B;
+}
+
+#new {
+	
+	margin: 5px 10px 10px 360px;
+	text-align: center justify;
+	color: aliceblue;
+	
+}
+
+#iMg1 {
+	float: left;
+	margin: 5px 5px;
+	
+	
+}
+
+#main2 {
+	background: #E4CECF;
+	
+}
+
+.himalayes {
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding: 10px 0 20px 10px;	
+}
+
+
+
+.videoelement {
+	float: left;
+	width: 50%;
+	margin: 5px 10px 10px 5px;
+	
+	
+}
+
+#sidebar3 {
+	background: #E4B7B8;
+	margin: 0 0 10px 0;
+}
+
